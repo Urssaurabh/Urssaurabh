@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Saurabh 👋</h1>
 
-<h3 align="center">BTech CSE/IT Student | Aspiring Software Developer | Problem Solver </h3>
+<h3 align="center">BTech CSE/IT Student | Aspiring Software Developer | AI/ML Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Building+with+Java+%26+Spring+Boot;Exploring+AI%2FML+%26+Data;Learning+DSA+one+problem+at+a+time" alt="Typing SVG" />
@@ -10,13 +10,13 @@
 
 ### 🚀 About Me
 
-- 🎓 4th year BTech student, CSE/IT branch
-- 💻 Currently focused on **Software Development**, with a strong interest in weaving **AI** into real-world projects
-- 🧠 Learning **Data Structures & Algorithms** and **Spring Boot**
-- 🔭 Currently building **VisionAssist AI** — an AI-powered accessibility tool that reads text and describes diagrams aloud for visually impaired students
-- 🌱 Exploring how AI/ML and data can solve everyday accessibility problems
-- 🎯 Preparing for placements at service-based companies
-- ⚡ Fun fact: I enjoy digging into how systems work under the hood — from data patterns to how hackers break (and defend) them
+- 🎓 Final-year BTech student (CSE/IT), graduating with hands-on project experience in **AI-integrated software development**
+- 💻 Focused on **Java, Spring Boot & backend development**, with a growing specialization in applying **AI/ML to real-world products**
+- 🔭 Built **VisionAssist AI** — an accessibility tool that helps visually impaired students by reading text and describing diagrams aloud, shipped end-to-end (backend, API integration, deployment)
+- 📈 Strong analytical foundation — comfortable working with data, patterns, and problem-solving at scale
+- 🧠 Actively sharpening **DSA** fundamentals for technical interviews
+- 🎯 Actively seeking **Software Development / SDE** internship & full-time opportunities
+- 🤝 Open to collaborating on AI-driven and accessibility-focused projects
 
 ---
 
@@ -31,16 +31,6 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Gemini%20API-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
 </p>
-
----
-
-### 📌 Featured Projects
-
-| Project | Description |
-|---|---|
-| [**VisionAssist AI**](https://github.com/Urssaurabh/VisionAssist-AI) | An AI accessibility tool that reads textbook pages / whiteboards aloud and describes diagrams & charts for visually impaired students. Built with Spring Boot + Gemini Vision API. |
-| [**AI Accessibility Tool**](https://github.com/Urssaurabh/ai-accessibility-tool) | Core engine powering the accessibility assistant — camera capture → AI vision → spoken description. |
-| [**GenAI Resume**](https://github.com/Urssaurabh/genai-Resume) | An AI-assisted resume-building project exploring generative AI for personal document creation. |
 
 ---
 
@@ -63,4 +53,4 @@
   <a href="https://github.com/Urssaurabh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
-<p align="center"><i>⭐️ Open to internship & placement opportunities in Software Development, with a growing focus on AI-driven projects.</i></p>
+<p align="center"><i>⭐️ Actively looking for Software Development opportunities — let's connect!</i></p>
