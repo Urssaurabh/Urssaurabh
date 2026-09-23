@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6DB33F&height=200&section=header&text=Hi%20There,%20I'm%20Saurabh%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%20There,%20I'm%20Saurabh%20👋&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
 <h3>BTech CSE/IT Final Year | Software Developer | AI/ML Enthusiast</h3>
 
@@ -82,7 +82,7 @@
 ## 📈 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Urssaurabh&theme=tokyo-night&hide_border=true" alt="contribution graph" width="90%"/>
+<img src="https://ghchart.rshah.org/2E9EF7/Urssaurabh" alt="contribution graph" width="90%"/>
 </div>
 
 <br>
@@ -91,6 +91,8 @@
 
 <div align="center">
 <a href="https://github.com/Urssaurabh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/saurabh-chaubey-5148782a8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:saurabhchaubey2923@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </div>
 
 <br>
@@ -99,4 +101,4 @@
 <i>⭐️ Actively looking for Software Development opportunities — let's connect!</i>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6DB33F,100:2E9EF7&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,11,6&height=150&section=footer&animation=twinkling" width="100%"/>
